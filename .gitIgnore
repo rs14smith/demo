@@ -1,2 +1,4 @@
-robertTest.html
-.DS_Store
+robertTest.html,
+.DS_Store,
+test.js,
+test2.js
